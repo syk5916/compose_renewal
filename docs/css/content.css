@@ -1257,7 +1257,7 @@ body,html{height:100%;}
    }
    .bitter_txtbox_wrap{
     width:100%; height: 500px;
-    border:1px solid red; position: relative;
+   position: relative;
    }
    .bitter_txtbox{
        width:320px;
