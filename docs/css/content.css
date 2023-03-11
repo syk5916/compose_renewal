@@ -627,13 +627,13 @@ body,html{height:100%;}
 
 .best_menu > .bxslider_01 >ul>li{
     margin-top:100px;
-    width:300px; height:300px;
+    width:290px; height:290px;
     float:left;
     margin-bottom:30px;
 }
 
 .menu_box>div{
-    width:250px; height:250px;margin:25px; 
+    width:250px; height:250px;margin:30px; 
     box-sizing: border-box;
     border-radius:150px; background-color:#ffd800;
 }
